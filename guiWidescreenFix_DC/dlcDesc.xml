@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="3">
+    <author>Morc @ 370network</author>
+    <version>0.2.3</version>
+    <title>
+        <en>guiWidescreenFix - DLC Edition</en>
+    </title>
+    <description>
+        <en>
+        <![CDATA[Enjoy Demolition Company in Glorious Widescreen!
+Made possible with reGIANTS GarKit and with the help of the LS Mods Community (https://komeo.xyz/ls2009mods)]]>
+        </en>
+    </description>
+    <extraSourceFiles>
+        <sourceFile filename="guiWidescreenFix.lua"/>
+    </extraSourceFiles>
+</modDesc>
